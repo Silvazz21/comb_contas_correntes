@@ -1,1 +1,1 @@
-# Streamlit app para fazer encontrar combinações nas contas correntes
+# Streamlit app para encontrar combinações nas contas correntes
